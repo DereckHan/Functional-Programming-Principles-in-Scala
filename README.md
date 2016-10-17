@@ -1,8 +1,6 @@
 # Functional Programming Principles in Scala
 
-## Course: 
-
-[Functional Programming Principles]: https://www.coursera.org/learn/progfun1/home/welcome
+## Course: [Functional Programming Principles in Scala] (https://www.coursera.org/learn/progfun1/home/welcome)
 
 ### Week 1 :
 
