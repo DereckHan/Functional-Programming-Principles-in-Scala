@@ -4,7 +4,7 @@
 		module="functional-programming-principles-in-scala$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20161016173021"
+		publication="20161025150514"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>

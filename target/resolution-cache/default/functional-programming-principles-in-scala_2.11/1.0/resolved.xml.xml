@@ -4,7 +4,7 @@
 		module="functional-programming-principles-in-scala_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20161016173022"
+		publication="20161025150505"
 	>
 		<description>
 		Functional-Programming-Principles-in-Scala
@@ -34,5 +34,6 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.8" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="org.scala-lang" name="scala-parser-combinators" rev="2.11.0-M4" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
