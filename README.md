@@ -122,10 +122,6 @@ trait Planar{
 class Square extends Shape with Planar
 ```
 
-![Scala's Class Hierarchy](https://goo.gl/images/oKZIR3)
-
-​										Scala's Class Hierarchy
-
 Scala.Nothing:
 
 - To signal abnormal termination 	(type of error method)
